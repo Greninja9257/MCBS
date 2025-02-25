@@ -1,0 +1,2 @@
+# MCBS
+Minecraft Bot Script
